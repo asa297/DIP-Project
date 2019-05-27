@@ -13,10 +13,10 @@ export default class MyDocument extends Document {
     return (
       <html>
         <Head>
-          {/* <link rel="stylesheet" href="/static/css/antd.css" /> */}
           {this.props.styleTags}
+          <link rel="stylesheet" type="text/css" href="/static/nprogress.css" />
         </Head>
-        <body style={{ background: '#cccccc' }}>
+        <body>
           <Main />
           <NextScript />
         </body>
