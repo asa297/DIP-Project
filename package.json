@@ -19,7 +19,7 @@
     "dotenv": "^6.1.0",
     "dotenv-webpack": "^1.5.7",
     "express": "^4.16.4",
-    "mongoose": "^5.4.5",
+    "mongoose": "^5.7.5",
     "next": "8.1.0",
     "next-compose-plugins": "^2.2.0",
     "nodemon": "^1.18.10",
